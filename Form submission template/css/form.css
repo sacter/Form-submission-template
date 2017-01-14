@@ -1,0 +1,17 @@
+.success{
+	background:#f5f5f5;
+	font-weight:bold;
+	color:#000000;
+	border:1px solid #009900;
+}
+.failure{
+	background:#f5f5f5;
+	font-weight:bold;
+	color:#000000;
+	border:1px solid #990000;
+}
+.init{
+	background:#f5f5f5;
+	font-weight:bold;
+	color:#000000;
+}
